@@ -1,0 +1,65 @@
+[
+  {
+    "workspaceId": 1790650954995,
+    "userId": "325f3bd3-0665-4f8b-b941-a1320fc646d7",
+    "email": "doan-thanh+yuilink100@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790650954995,
+    "userId": "a581cb43-dc82-4e64-9828-81cf168df165",
+    "email": "doan-thanh+yuilink200@web-life.co.jp",
+    "role": "member",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790739296883,
+    "userId": "88c73953-8a12-4fdb-a5be-e90d92764b2e",
+    "email": "doan-thanh+dev500@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790837297272,
+    "userId": "4b96fdff-6466-4f34-ab3d-8312d460fa99",
+    "email": "doan-thanh+yuilink300@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790842742561,
+    "userId": "ede3c7a8-9363-4698-b10f-d6926db62f7e",
+    "email": "doan-thanh+yuilink300@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790929156256,
+    "userId": "f4d185ee-5500-46bc-8449-38a6ed09fcf9",
+    "email": "doan-thanh+yuilink300@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  },
+  {
+    "workspaceId": 1790929401740,
+    "userId": "15b758ba-0393-4743-8414-a3e755d54ffd",
+    "email": "doan-thanh+dev501@web-life.co.jp",
+    "role": "owner",
+    "status": "active",
+    "inviteToken": null,
+    "inviteExpiresAt": null
+  }
+]
